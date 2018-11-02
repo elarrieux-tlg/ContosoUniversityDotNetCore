@@ -2,7 +2,7 @@
 
 Contoso University, the way I would write it.
 
-To run, create a database "ContosoUniversity" and run the SchemaAndData.sql script against it. Modify the connection string in appsettings and go!
+To run, create a database "ContosoUniversity" and run the "ContosoUniversity\App_Data\runAfterCreateDatabase\0001_InitialSchema.sql" script against it. Modify the connection string in appsettings and go!
 
 ## Things demonstrated
 
